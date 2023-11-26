@@ -7,4 +7,4 @@ on the selection of these instances from a larger database. In particular, all p
 at least 21 years old of Pima Indian heritage.2
 From the data set in the (.csv) File We can find several variables, some of them are independent
 (several medical predictor variables) and only one target dependent variable (Outcome).
-      
+      The task is to find out the patients who has diabetis or not.
